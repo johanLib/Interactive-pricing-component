@@ -1,0 +1,9 @@
+{
+    "theme_color": "#10d5c2",
+    "background_color": "#f1f5fe",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Interactive pricing component",
+    "short_name": "Interactive pricing",
+    "description": "Interactive pricing component"
+}
